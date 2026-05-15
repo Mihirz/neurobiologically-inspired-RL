@@ -5,7 +5,7 @@
 A model equipped with a **meta-controller that selects its own optimization
 sub-objective** — receiving supplementary intrinsic rewards on top of standard
 task rewards — will develop more generalizable behavior across tasks than a
-model trained with a fixed objective alone.
+model trained with a fixed objective alone. 
 
 **Biological inspiration:** The prefrontal cortex (PFC) does not replace the
 brain's reward system. It *modulates* it. Dopaminergic signals from the VTA
