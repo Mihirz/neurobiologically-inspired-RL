@@ -1,4 +1,5 @@
 # Self-Optimizing Training Paradigm Experiment
+>_2026 California Neurotechnology Conference Poster: https://drive.google.com/file/d/1Vuspbu8ETigrhs7cYh49ViCQvucvfFnO/view?usp=sharing_
 
 ## Hypothesis
 
