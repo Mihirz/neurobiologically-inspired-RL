@@ -1,4 +1,4 @@
-# Self-Optimizing Training Paradigm Experiment
+# Prefrontal-Inspired Control for Adaptive Goal Selection in Reinforcement Learning
 >_2026 California Neurotechnology Conference Poster: https://drive.google.com/file/d/1Vuspbu8ETigrhs7cYh49ViCQvucvfFnO/view?usp=sharing_
 
 ## Hypothesis
